@@ -17,7 +17,7 @@ Select Win3xE Arizona from xfce window manager settings.<br>
 -After installing progman run "progman -i" to create initial config.<br>
 -Run "progman -s" to populate the icons.<br>
 -Run "progman" to start<br><br>
-Tip: Set a hot key to run progman, it will restore the progman window to the current desktop.
+Tip: Set a hot key to run progman, it will restore the progman window to the current desktop/screen when the hot key is pushed. (Requires wmctrl, current assumes Xorg I'm not sure on wayland...)
 
 <h4>More info:</h4>
 Check out the gtk-nocsd project to disable csd windows. The project hasn't been updated in some time however it is functional as of now. https://github.com/PCMan/gtk3-nocsd<br>
