@@ -1,0 +1,33 @@
+/* XPM */
+static char *stick_toggled_inactive[] = {
+/* columns rows colors chars-per-pixel */
+"20 23 4 1 ",
+"  c None",
+". c black",
+"X c #868A8E",
+"o c #C3C3C3",
+/* pixels */
+"                    ",
+"                    ",
+"                    ",
+"....................",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXX..XoXXXXXX.",
+".XXXXXXXXXXXoXXXXXX.",
+".XXXXXXXXooooXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+".XXXXXXXXXXXXXXXXXX.",
+"...................."
+};

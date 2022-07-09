@@ -1,0 +1,33 @@
+/* XPM */
+static char *maximize_toggled_pressed[] = {
+/* columns rows colors chars-per-pixel */
+"20 23 4 1 ",
+"  c None",
+". c black",
+"X c #868A8E",
+"o c #C3C3C3",
+/* pixels */
+"                    ",
+"                    ",
+"                    ",
+"....................",
+".XXXXXXXXXXXXXXXXXX.",
+".Xooooooooooooooooo.",
+".Xooooooooooooooooo.",
+".Xooooooooooooooooo.",
+".Xooooooooooooooooo.",
+".Xooooooooooooooooo.",
+".Xoooooooo.oooooooo.",
+".Xooooooo...ooooooo.",
+".Xoooooo.....oooooo.",
+".Xooooo.......ooooo.",
+".Xooooooooooooooooo.",
+".Xooooooooooooooooo.",
+".Xooooo.......ooooo.",
+".Xoooooo.....oooooo.",
+".Xooooooo...ooooooo.",
+".Xoooooooo.oooooooo.",
+".Xooooooooooooooooo.",
+".Xooooooooooooooooo.",
+"...................."
+};
