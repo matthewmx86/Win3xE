@@ -27,3 +27,8 @@ Tip: Set a hot key to run progman, it will restore the progman window to the cur
 Check out the gtk-nocsd project to disable csd windows. The project hasn't been updated in some time however it is functional as of now. https://github.com/PCMan/gtk3-nocsd<br>
 Check out my Netscape theme for Firefox to get the Netscape look to go along with your Win3xE desktop:<br>https://github.com/matthewmx86/RetroThemesFirefox<br>
 Use the Netscape4_alt theme for best results.
+
+<h4>Screenshots</h4>
+![Image Screenshot](https://github.com/matthewmx86/Win3xE/blob/main/Screenshots/win1.png)
+![Image Screenshot](https://github.com/matthewmx86/Win3xE/blob/main/Screenshots/win2.png)
+
