@@ -7,15 +7,19 @@ is currently incomplete just a basic color titlebar. Also included is a basic sc
 You will need to install the pcmanfm file manager to use the progman script.
 
 <h4>To install theme:</h4>
-Copy the Win3xE_Arizona into your ~/.themes directory or /usr/share/themes for multi user installs.
-Select Win3xE Arizona from xfce appearance settings.
-Select Win3xE Arizona from xfce window manager settings.
+Copy the Win3xE_Arizona folder into your ~/.themes/ directory or /usr/share/themes/ for multi user installs.<br>
+Select Win3xE Arizona from xfce appearance settings.<br>
+Select Win3xE Arizona from xfce window manager settings.<br>
 
 <h4>To install progman script:</h4>
--Install pcmanfm and wmctrl using your distros package manager.
--Run "./install.sh" from the Extras/progman directory to install.
--After installing progman run "progman -i" to create initial config.
--Run "progman -s" to populate the icons.
--Run "progman" to start
-
+-Install pcmanfm and wmctrl using your distros package manager.<br>
+-Run "./install.sh" from the Extras/progman directory to install.<br>
+-After installing progman run "progman -i" to create initial config.<br>
+-Run "progman -s" to populate the icons.<br>
+-Run "progman" to start<br><br>
 Tip: Set a hot key to run progman, it will restore the progman window to the current desktop.
+
+<h4>More info:</h4>
+Check out the gtk-nocsd project to disable csd windows. The project hasn't been updated in some time however it is functional as of now. https://github.com/PCMan/gtk3-nocsd<br>
+Check out my Netscape theme for Firefox to get the Netscape look to go along with your Win3xE desktop:<br>https://github.com/matthewmx86/RetroThemesFirefox<br>
+Use the Netscape4_alt theme for best results.
