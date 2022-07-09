@@ -1,5 +1,6 @@
 # Win3xE
 <h3>A GTK2/3 Windows 3.1 theme.</h3>
+![Image Screenshot](https://github.com/matthewmx86/RetroThemesFirefox/blob/main/Screenshots/netscape1.png)<br>
 [Work in progress]
 This is a project to emulate the Windows 3.1 look and feel. Color scheme is from the Windows 3.1 theme called "Arizona".
 Window manager theme is for xfce4/xfwm4. It is currently designed to be used with gtk-nocsd, CSD window theming
