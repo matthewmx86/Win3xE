@@ -29,6 +29,7 @@ Check out my Netscape theme for Firefox to get the Netscape look to go along wit
 Use the Netscape4_alt theme for best results.
 
 <h4>Screenshots</h4>
+
 ![Image Screenshot](https://github.com/matthewmx86/Win3xE/blob/main/Screenshots/win1.png)
 ![Image Screenshot](https://github.com/matthewmx86/Win3xE/blob/main/Screenshots/win2.png)
 
