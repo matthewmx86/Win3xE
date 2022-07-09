@@ -1,0 +1,101 @@
+/*-------- Firefox scrollbar fix ---------*/
+  scrollbar .button, scrollbar .button:backdrop, scrollbar .button:active, scrollbar .button:active:backdrop, scrollbar .button:disabled, scrollbar .button:disabled:backdrop {
+    border: none;
+    margin: 0px;
+    border-radius: 0;
+    color: transparent; }
+  scrollbar.horizontal .button.left {
+    min-height: 15px;
+    min-width: 15px; 
+    background-image: url("assets/stepper-left.png"); }
+  scrollbar.horizontal .button.right {
+    min-height: 15px;
+    min-width: 15px; 
+    background-image: url("assets/stepper-right.png"); }
+scrollbar.vertical .button.top {
+    min-height: 17px;
+    min-width: 15px; 
+    background-image: url("assets/stepper-up.png"); }
+scrollbar.vertical .button.top:active {
+    min-height: 17px;
+    min-width: 15px; 
+    background-image: url("assets/stepper-up-active.png"); }
+scrollbar.vertical .button.bottom {
+    min-height: 17px;
+    min-width: 15px; 
+    background-image: url("assets/stepper-down.png"); }
+scrollbar.vertical .button.bottom:active {
+    min-height: 17px;
+    min-width: 15px; 
+    background-image: url("assets/stepper-down-active.png"); }
+
+/* ----------------------------- */
+
+filechooser stack {
+background-color: @theme_bg_color;
+}
+
+filechooser stack box {
+background-color: @theme_bg_color;
+}
+
+filechooser stack button box {
+background-color: @button_bg_color;
+}
+
+.horizontal.header-box {
+border: none;
+}
+
+.nemo-window scrolledwindow {
+border-top: none;
+border-bottom: none;
+}
+
+.nemo-window sidebar separator {
+background-color: #000;
+}
+
+.nemo-window menu separator {
+background-color: @borders;
+}
+
+.nemo-window .primary-toolbar button {
+    padding: 4px 8px;
+    margin-right: -1px;
+}
+
+.nemo-window menuitem separator {
+color: @borders;
+border-style: none;
+border-width: 0px;
+}
+
+.horizontal.dialog-actionbox {
+background-color: @theme_bg_color;
+}
+
+.nemo-window .nemo-window-pane widget.entry:selected, .nemo-window .nemo-window-pane widget.entry:selected:focus {
+color: @theme_selected_fg_color;
+background-color: @theme_selected_bg_color; 
+}
+
+dialog stack {
+background-color: @theme_bg_color;
+}
+
+messagedialog box {
+background-color: #fff;
+}
+
+messagedialog button box {
+background-color: @button_bg_color;
+}
+
+dialog {
+background-color: #fff;
+}
+
+.meld-notebook scrolledwindow {
+margin: 0;
+}
