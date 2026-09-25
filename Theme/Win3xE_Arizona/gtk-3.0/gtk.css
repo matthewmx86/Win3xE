@@ -16,7 +16,7 @@
 /* Begin */
 
 @define-color disabled_bg_color mix(@fg_color, @bg_color, 0.95);
-@define-color disabled_fg_color shade(@bg_color, 0.9);
+@define-color disabled_fg_color shade(@fg_color, 0.9);
 @define-color disabled_base_color @base_color;
 @define-color disabled_text_color @disabled_fg_color;
 /* Backdrop state colors */
