@@ -1,11 +1,12 @@
 /* XPM */
 static char *maximize_pressed[] = {
 /* columns rows colors chars-per-pixel */
-"20 23 4 1 ",
+"20 23 5 1 ",
 "  c None",
 ". c black",
-"X c #868A8E",
-"o c #C3C3C3",
+"x c #000000 s active_border_color",
+"X c #868A8E s active_shadow_2",
+"o c #C3C3C3 s active_color_2",
 /* pixels */
 "                    ",
 "                    ",
@@ -19,10 +20,10 @@ static char *maximize_pressed[] = {
 ".Xooooooooooooooooo.",
 ".Xooooooooooooooooo.",
 ".Xooooooooooooooooo.",
-".Xoooooooo.oooooooo.",
-".Xooooooo...ooooooo.",
-".Xoooooo.....oooooo.",
-".Xooooo.......ooooo.",
+".Xooooooooxoooooooo.",
+".Xoooooooxxxooooooo.",
+".Xooooooxxxxxoooooo.",
+".Xoooooxxxxxxxooooo.",
 ".Xooooooooooooooooo.",
 ".Xooooooooooooooooo.",
 ".Xooooooooooooooooo.",

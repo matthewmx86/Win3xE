@@ -4,7 +4,7 @@ static char *bottom_left_inactive[] = {
 "23 23 3 1 ",
 "  c None",
 ". c black",
-"X c #C3C3C3",
+"X c #C3C3C3 s inactive_color_1",
 /* pixels */
 "....                   ",
 ".XX.                   ",

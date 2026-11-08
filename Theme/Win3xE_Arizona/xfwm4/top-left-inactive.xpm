@@ -3,7 +3,7 @@ static char *top_left_inactive[] = {
 /* columns rows colors chars-per-pixel */
 "23 23 2 1 ",
 "  c black",
-". c #C3C3C3",
+". c #C3C3C3 s inactive_color_1",
 /* pixels */
 "                       ",
 " ..................... ",

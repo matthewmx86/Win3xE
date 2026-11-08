@@ -16,7 +16,7 @@
 /* Begin */
 
 @define-color disabled_bg_color mix(@fg_color, @bg_color, 0.95);
-@define-color disabled_fg_color shade(@bg_color, 0.9);
+@define-color disabled_fg_color shade(@selected_fg_color, 0.5);
 @define-color disabled_base_color @base_color;
 @define-color disabled_text_color @disabled_fg_color;
 /* Backdrop state colors */
@@ -126,3 +126,5 @@ Defined in gtk-base.css
 @define-color wm_button_active_color_b alpha(@selected_bg_color, 0.85);
 @define-color wm_button_active_color_c alpha(@selected_bg_color, 0.85);
 @define-color content_view_bg @base_color;
+/* Libadwaita */
+@define-color accent_color @selected_bg_color;

@@ -4,9 +4,9 @@ static char *stick_toggled_active[] = {
 "20 23 5 1 ",
 "  c None",
 ". c black",
-"X c #BCEFD1",
-"o c #C3C3C3",
-"O c white",
+"X c #BCEFD1 s active_hilight_1",
+"o c #C3C3C3 s active_text_shadow_color",
+"O c white s active_text_color",
 /* pixels */
 "                    ",
 "                    ",

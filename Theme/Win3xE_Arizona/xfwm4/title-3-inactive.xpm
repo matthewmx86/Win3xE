@@ -3,7 +3,7 @@ static char *title_3_inactive[] = {
 /* columns rows colors chars-per-pixel */
 "8 23 2 1 ",
 "  c black",
-". c #C3C3C3",
+". c #C3C3C3 s inactive_color_1",
 /* pixels */
 "        ",
 "........",

@@ -277,6 +277,10 @@ view.content-view check, .content-view.view check {
 view.content-view check:hover, view.content-view check:disabled, view.content-view check:selected {
   background-color: transparent; }
 
+.view:focus {
+	outline-offset: -1px;
+}
+
 check, radio, check:disabled, radio:disabled {
   margin: 4px;
   border-style: none;
@@ -2443,3 +2447,12 @@ UnityPanelWidget, .unity-panel {
   -gtk-icon-source: -gtk-icontheme("process-working-symbolic");
   animation: playbackmenuitem_spinner 1s infinite linear;
   color: @theme_selected_bg_color; }
+
+  /****************
+ * virt-manager *
+ ***************/
+window > box > notebook > stack > box > notebook > stack > notebook > stack > overlay > * {
+	border: none;
+	margin: 0px;
+	padding: 0px;
+}
